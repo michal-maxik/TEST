@@ -9,6 +9,6 @@ public class Main {
 
 
 
-        System.out.println("Dneska to neumím nemám dorý den a spánek ;)");
+        System.out.println("Dneska sem se nevyspal a mam hlad + mi to dneska nemyslí promiň tak snad zítra. ;)");
     }
 }
